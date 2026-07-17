@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.first-element {
+    background-color:hsl(from rgba(0, 0, 0, 0.708) h s l);
+    color:hsl(from rgba(255, 255, 255, 0.865) h s l);
+}
+
+.second-element {
+    background-color: yellow;
+}
+
+.first-element,
+.second-element {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
