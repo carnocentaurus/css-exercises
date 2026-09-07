@@ -75,6 +75,8 @@
 }
 
 .article {
+  display: grid;
+  grid-area: 2 / 2 / 3 / 3;
   background-color: #bccbde;
 }
 
