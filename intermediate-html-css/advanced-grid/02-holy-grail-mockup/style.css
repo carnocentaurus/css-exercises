@@ -42,6 +42,10 @@
 }
 
 .sidebar {
+  display: grid;
+  grid-area: 2 / 1 / 3 / 2;
+  gap: 50px;
+
   background-color: #C50208;
 }
 
