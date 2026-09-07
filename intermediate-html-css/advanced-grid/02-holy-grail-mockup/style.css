@@ -96,6 +96,8 @@
 }
 
 .footer {
+  display: grid;
+  grid-area: 3 / 1 / 4 / 3;
   background-color: #393f4d;
 }
 
